@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Criado com a Lasy",
-  description: "Projeto criado com Lasy AI",
+  title: "FitVerse - Treina, Partilha, Evolui Juntos",
+  description: "A primeira plataforma que junta registo de treinos com uma comunidade fitness apaixonada. Acompanha o teu progresso, inspira-te com outros e alcança os teus objetivos.",
 };
 
 export default function RootLayout({
